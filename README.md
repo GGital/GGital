@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gital</h1>
-<h3 align="center">A motivated AI Engineer and Data Scientist Freshman.</h3>
+<h1 align="left">Hi 👋, I'm Gital</h1>
+<h3 align="left">A motivated AI Engineer and Data Scientist Freshman.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggital&label=Profile%20views&color=0e75b6&style=flat" alt="ggital" /> </p>
 
@@ -20,6 +20,17 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MzGH70BdGmGb79e-eSarqAFV1cXvx9BY/view?usp=drive_link](https://drive.google.com/file/d/1MzGH70BdGmGb79e-eSarqAFV1cXvx9BY/view?usp=drive_link)
 
 - ⚡ Fun fact **I don't think anything will overcome my hashmap**
+
+<h1 align="left">🌐Browser:</h1>
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+<h1 align="left">🖥️ ML/DL:</h1>
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+Scipy	![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
